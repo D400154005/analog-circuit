@@ -1,5 +1,5 @@
 # analog-circuit
-asigntment of basic analog 
+assignment of basic analog 
 
 name   : Eka Muthia Sari
 
